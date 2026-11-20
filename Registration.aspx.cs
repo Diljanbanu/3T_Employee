@@ -19,10 +19,10 @@ namespace _3T_Employee
        
        
 
-        emp_bl emp;
+        
         string path, fnm;
         DataSet ds;
-
+        emp_bl emp;
 
         void startcon()
         {
